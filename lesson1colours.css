@@ -1,0 +1,20 @@
+h1 {
+    text-align:center;
+    color:#0BC00B;
+  }
+  .Food {
+    color:darkred;
+  }
+  .Snacks {
+    color:darkgreen;
+  }
+  body {
+    background-color:Gold;
+  }
+  #unbeatables {
+    height:100px;
+    width:150px;
+  }
+  .htbl {
+    height:110px;
+  }
